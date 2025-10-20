@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # 👋 Hi there
 I'm **radian462**, a developer and student from **Japan** 🇯🇵  
 
-#　💻 Languages and Tools
+# 💻 Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=python,go,html,bootstrap,discord)](https://skillicons.dev)
 
 [![My Tools](https://skillicons.dev/icons?i=git,github,gitlab,docker,redis,vscode)](https://skillicons.dev)
