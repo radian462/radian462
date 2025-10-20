@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=radian462&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 
 # My Skill
-[![My Skills](https://skillicons.dev/icons?i=python,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,go,html,bootstrap,discord)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,redis,vscode)](https://skillicons.dev)
 
