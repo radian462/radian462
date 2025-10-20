@@ -22,3 +22,5 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api?username=radian462&show_icons=true&theme=dark&count_private=true" alt="radian462's GitHub stats" height="165" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=radian462&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Langs" height="165" />
 </div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
