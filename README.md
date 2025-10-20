@@ -12,12 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# My Skills
+
+# 👋 Hi there
+I'm **radian462**, a developer from **Japan** 🇯🇵  
+Love coding, learning, and creating new things.
+
+
+#💻 Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=python,go,html,bootstrap,discord)](https://skillicons.dev)
 
 [![My Tools](https://skillicons.dev/icons?i=git,github,gitlab,docker,redis,vscode)](https://skillicons.dev)
 
-# Stats
+#📈 Stats
 <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=radian462&show_icons=true&theme=dark&count_private=true" alt="radian462's GitHub stats" height="165" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=radian462&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Langs" height="165" />
