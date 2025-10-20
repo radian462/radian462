@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 # My Skills
 [![My Skills](https://skillicons.dev/icons?i=python,go,html,bootstrap,discord)](https://skillicons.dev)
 
@@ -20,4 +19,4 @@ Here are some ideas to get you started:
 
 # Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=radian462&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=radian462&show_icons=true&theme=radical)
+![radian462's GitHub stats](https://github-readme-stats.vercel.app/api?username=radian462&show_icons=true&theme=radical)
