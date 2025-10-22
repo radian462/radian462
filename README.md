@@ -19,6 +19,7 @@ I'm **radian462**, a developer and student from **Japan** 🇯🇵
 <p>
     <a href="https://x.com/radian462"><img alt="Twitter" width="30px" src="https://simpleicons.org/icons/x.svg" /></a>
     <a href="https://bsky.app/profile/did:plc:sggbtldl6x3jq5xveequpip6"><img alt="qiita" width="30px" src="https://simpleicons.org/icons/bluesky.svg" /></a>
+    <a href="https://misskey.io/@radian462"><img alt="Misskey.io" width="30px" src="https://simpleicons.org/icons/misskey.svg" /></a>
     <a href="https://zenn.dev/radian462"><img alt="zenn" width="30px" src="https://simpleicons.org/icons/zenn.svg" /></a>
     <a href="https://qiita.com/radian462"><img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" /></a>
 </p>
