@@ -25,7 +25,7 @@ I'm **radian462**, a developer and student from **Japan** 🇯🇵
 </p>
 
 # 💻 Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=python,go,html,css,bootstrap,discord,bots)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,go,html,css,javascript,bootstrap,discord,bots)](https://skillicons.dev)
 
 [![My Tools](https://skillicons.dev/icons?i=git,github,gitlab,docker,gcp,redis,vscode)](https://skillicons.dev)
 
